@@ -1,27 +1,27 @@
 //prime problems 
 
 let num=13;
-flag=flasee;
+flag=false;
 
-for {x=0;x<=num;x++;}{
+for (x=0;x<=num;x++){
 if(num%i==0){
 flag=true;
 }}
 if (flag=true){
-console.log prime;
-else {
-not prime;
+console.log ("prime");
+}else {
+    console.log("No");
+}
 
 //palindrome problems
 let str="kik";
 let new_str="";
-for{x=0;x<=arr.length-1;x++}{
-new_str=new_str+str[i};
+for(x=0;x<=arr.length-1;x++){
+new_str=new_str+str[i];
 }
 if (str==new_str){
 console.log("yes");
 }else{
-console.log("no"):}
-
-
+console.log("no");
+}
 
